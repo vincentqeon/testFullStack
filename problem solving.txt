@@ -1,0 +1,11 @@
+1.
+-mengecek code apakah ada yang bisa di buat lebih efficient
+-memasang cache untuk meringankan beban processing server
+-memasang load balancing pada server
+-menambah server
+
+2. mengontrol agar hanay 1 process yang menulis/membaca suatu data yang sama pada waktu bersamaan, dapat dilakukan dengna mengunakan lock. phyton mempunyai threading.lock, sedangkan goLang mempunyai sync.Mutex.
+Dalam server MySQL juga dapat menerapkan "repeatable read" wlau tidak bisa mencega secara menyeluruh.
+
+
+

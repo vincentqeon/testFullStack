@@ -1,0 +1,10 @@
+1. Seo Sudah Baik
+2. Mengisi content di blog dan membagikannya di social media agar 	meningkatkan traffic sehingga lebih mura ditemukan oleh search 	engine
+
+3. hal yang dapat dilakukan:
+    • Mengcompress size image yang digunakan 
+    • mengunnakan asset image sesuai dengan ukuran yang digunakan dalam 	website
+    • memberikan beberapa ukuran sesuai dengan ukuran layar device yang 	digunakan untuk mengaccess webiste tersebut
+    • memakai cdn
+    • mengunakan cache untuk asset/ data yang sering digunakan
+    • minify css & javascript
